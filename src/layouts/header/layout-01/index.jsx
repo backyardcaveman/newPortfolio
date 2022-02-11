@@ -40,21 +40,7 @@ const Header = ({ className, data }) => {
                                     menus={data.menu}
                                 />
                             )}
-                            <div className="header-right">
-                                {data?.button && (
-                                    <Button
-                                        path={data.button?.path}
-                                        className={data.button?.className}
-                                    >
-                                        <span>{data.button?.content}</span>
-                                    </Button>
-                                )}
-
-                                <BurgerButton
-                                    className="d-block d-xl-none"
-                                    onClick={offcanvasHandler}
-                                />
-                            </div>
+                            
                         </div>
                     </div>
                 </div>

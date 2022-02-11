@@ -31,18 +31,18 @@ const ContactInfoCard = ({
                 {desc && <p>{desc}</p>}
                 {phone && (
                     <span className="phone">
-                        Phone: <a href={`tel:${phone}`}>+{phone}</a>
+                        Phone: <a href={`tel:${phone}`}>226-344-7546</a>
                     </span>
                 )}
                 {email && (
                     <span className="mail">
-                        Email: <a href={`mailto:${email}`}>{email}</a>
+                        Email: <a href={`mailto:${email}`}>fstcam@outlook.com</a>
                     </span>
                 )}
             </div>
             {socials && (
                 <div className="social-area">
-                    <div className="name">FIND WITH ME</div>
+                    <div className="name">FIND ME</div>
                     <Social className="social-icone">
                         {socials.map((social) => (
                             <SocialLink key={social.id} path={social.path}>
