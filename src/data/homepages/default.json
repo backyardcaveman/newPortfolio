@@ -18,7 +18,7 @@
             ],
             "texts": [
                 {
-                    "content": "Self taught developer of 2 years that specializes in front end technologies."
+                    "content": "Passionate individual seeking remarkable opportunities in the industry of Web/Software Development to establish an exceptional career path and professional growth."
                 }
             ],
             "skills": [
@@ -26,7 +26,7 @@
                     "id": 1,
                     "title": "developer",
                     "image": {
-                        "src": "../images/icons/icons-01.png",
+                        "src": "../images/icons/icons-16.png",
                         "alt": "Skill Icon"
                     }
                 },
@@ -34,7 +34,7 @@
                     "id": 2,
                     "title": "developer",
                     "image": {
-                        "src": "../images/icons/icons-02.png",
+                        "src": "../images/icons/icons-18.png",
                         "alt": "Skill Icon"
                     }
                 },
@@ -42,7 +42,7 @@
                     "id": 3,
                     "title": "developer",
                     "image": {
-                        "src": "../images/icons/icons-03.png",
+                        "src": "../images/icons/logo234.png",
                         "alt": "Skill Icon"
                     }
                 }
@@ -182,8 +182,7 @@
             "id": "default-home-resume",
             "section": "resume-section",
             "section_title": {
-                "title": "My Resume",
-                "subtitle": "7+ Years of Experience"
+                "title": "My Resume"
             }
         },
         {
@@ -194,60 +193,60 @@
                 {
                     "id": "education-section-left",
                     "section_title": {
-                        "title": "Education Quality",
-                        "subtitle": "2007 - 2010"
+                        "title": "Education",
+                        "subtitle": "2012 - 2021"
                     },
                     "items": [
                         {
                             "id": 1,
-                            "title": "Personal Portfolio April Fools",
-                            "subtitle": "University of DVI (1997 - 2001)",
+                            "title": "Physiotherapist Assistant Diploma",
+                            "subtitle": "Trios College (2012 - 2013)",
                             "rating": "4.30/5",
                             "description": "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
                         },
                         {
                             "id": 2,
-                            "title": "Examples Of Personal Portfolio",
-                            "subtitle": "College of Studies (2000 - 2002)",
+                            "title": "Build Responsive Real-World Websites with HTML5 & CSS3",
+                            "subtitle": "Jonas Schmedtmann",
                             "rating": "4.50/5",
-                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "description": "Using Modern, semantic and accessible HTML5. Utilizing the box model, positioning schemes, inheritance, solving selector conflicts, etc.. Working on Developer skills such as reading documentation, debugging, and using professional tools"
                         },
                         {
                             "id": 3,
-                            "title": "Tips For Personal Portfolio",
-                            "subtitle": "University of Studies (1997 - 2001)",
+                            "title": "The Complete JavaScript Course 2021",
+                            "subtitle": "Jonas Schmedtmann",
                             "rating": "4.80/5",
-                            "description": "If you are going to use a passage. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "description": "JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, etc. Asynchronous JavaScript: Event loop, promises, async/await, AJAX calls and APIs. Modern ES6+ from the beginning: arrow functions, destructuring, spread operator, optional chaining (ES2020), etc."
                         }
                     ]
                 },
                 {
                     "id": "education-section-right",
                     "section_title": {
-                        "title": "Job Experience",
-                        "subtitle": "2007 - 2010"
+                        "title": "Education Continued",
+                        "subtitle": "2021 - 2022"
                     },
                     "items": [
                         {
                             "id": 1,
-                            "title": "Diploma in Web Development",
-                            "subtitle": "BSE In CSE (2004 - 2008)",
+                            "title": "50 Projects in 50 Days ",
+                            "subtitle": "Brad Traversy",
                             "rating": "4.70/5",
-                            "description": "Contrary to popular belief. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "description": "Project based teaching to sharpen HTML, CSS & JavaScript skills. Modern styling with flexbox, CSS animations, custom properties, etc. DOM manipulation, events, array methods, HTTP requests & more."
                         },
                         {
                             "id": 2,
-                            "title": "The Personal Portfolio Mystery",
-                            "subtitle": "Job at Rainbow-Themes (2008 - 2016)",
+                            "title": "MongoDB – The Complete Developers Guide 2021",
+                            "subtitle": "Academind by Maximilian Schwarzmuller",
                             "rating": "4.95/5",
-                            "description": "Generate Lorem Ipsum which looks. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "description": "Learn what document databases are and how data is organized with MongoDB. Learn how to perform CRUD operations with MongoDB. Write efficient and well-performing queries to fetch data in the format you need it."
                         },
                         {
                             "id": 3,
-                            "title": "Diploma in Computer Science",
-                            "subtitle": "Works at Plugin Development (2016 - 2020)",
+                            "title": "React - The Complete Guide",
+                            "subtitle": "Academind by Maximilian Schwarzmuller",
                             "rating": "5.00/5",
-                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "description": "Build powerful, fast, user-friendly and reactive web apps. Provide amazing user experiences by leveraging the power of JavaScript with ease. Learn all about React Hooks and React Components."
                         }
                     ]
                 }
@@ -326,60 +325,60 @@
                 {
                     "id": "default-home-experience-left",
                     "section_title": {
-                        "title": "Education Quality",
-                        "subtitle": "2007 - 2010"
+                        "title": "Job Experience",
+                        "subtitle": "2015 - Present"
                     },
                     "items": [
                         {
                             "id": 1,
-                            "title": "Personal Portfolio April Fools",
-                            "subtitle": "University of DVI (1997 - 2001)",
+                            "title": "Physiotherapist Assistant",
+                            "subtitle": "The Village at St. Clair (2020 to Present)",
                             "rating": "4.30/5",
-                            "description": "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "description": "Coordinated with residents and patients by dispensing excellent customer service and support. Fostered a fiduciary relationship with the people while facilitating their development through fitness training. Showed empathy while attentively listening to people’s concerns to influence their decision-making, achieving common goals."
                         },
                         {
                             "id": 2,
-                            "title": "Examples Of Personal Portfolio",
-                            "subtitle": "College of Studies (2000 - 2002)",
+                            "title": "Personal Trainer",
+                            "subtitle": "Riverside Family Fitness (2017 - 2018)",
                             "rating": "4.50/5",
-                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "description": "Conducted assessment or evaluation to identify the needed improvement or necessary development of activities or programs. Nurtured a safe and positive work environment by identifying the problem's root cause and providing a solution. Established a training or fitness program to enhance individuals' performance and maximize their potential."
                         },
                         {
                             "id": 3,
-                            "title": "Tips For Personal Portfolio",
-                            "subtitle": "University of Studies (1997 - 2001)",
+                            "title": "Personal Trainer",
+                            "subtitle": "True Fitness (2015 - 2017)",
                             "rating": "4.80/5",
-                            "description": "If you are going to use a passage. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "description": "Everything listed above with the addition of opening and closing the facility, and building strong impactful relationships with its members."
                         }
                     ]
                 },
                 {
                     "id": "default-home-section-right",
                     "section_title": {
-                        "title": "Job Experience",
-                        "subtitle": "2007 - 2010"
+                        "title": "Experience",
+                        "subtitle": "2020 - Present"
                     },
                     "items": [
                         {
                             "id": 1,
-                            "title": "Diploma in Web Development",
-                            "subtitle": "BSE In CSE (2004 - 2008)",
+                            "title": "Technology Literacy",
+                            "subtitle": "2020 - Present",
                             "rating": "4.70/5",
-                            "description": "Contrary to popular belief. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "description": "Adept at utilizing sophisticated computer programs and applications to deliver more accurate or concise production and operation results while keeping up with industry and technological trends."
                         },
                         {
                             "id": 2,
-                            "title": "The Personal Portfolio Mystery",
-                            "subtitle": "Job at Rainbow-Themes (2008 - 2016)",
+                            "title": "Project Management",
+                            "subtitle": "2020 - Present",
                             "rating": "4.95/5",
-                            "description": "Generate Lorem Ipsum which looks. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "description": "Superb at developing initiatives and processes; efficiently determining and allocating resources, mitigating project risks and corrective actions, and driving process improvements."
                         },
                         {
                             "id": 3,
-                            "title": "Diploma in Computer Science",
-                            "subtitle": "Works at Plugin Development (2016 - 2020)",
+                            "title": "Communication & Interpersonal Skills",
+                            "subtitle": "2020 - Present",
                             "rating": "5.00/5",
-                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "description": "Equipped with stellar verbal and written communication skills while planning, directing, and coordinating training activities and strategies to encourage customer development. I build and cultivate relationships across organizations that optimize communication channels and enhance profitability."
                         }
                     ]
                 }
@@ -399,24 +398,9 @@
                     "items": [
                         {
                             "id": 1,
-                            "title": "Personal Portfolio April Fools",
-                            "subtitle": "University of DVI (1997 - 2001)",
-                            "rating": "4.30/5",
-                            "description": "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
-                        },
-                        {
-                            "id": 2,
-                            "title": "Examples Of Personal Portfolio",
-                            "subtitle": "College of Studies (2000 - 2002)",
-                            "rating": "4.50/5",
-                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
-                        },
-                        {
-                            "id": 3,
-                            "title": "Tips For Personal Portfolio",
-                            "subtitle": "University of Studies (1997 - 2001)",
-                            "rating": "4.80/5",
-                            "description": "If you are going to use a passage. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Core Competencies",
+                            "subtitle": "Lifelong",
+                            "description": "Website Development, Software Programming, Strategic Direction, Database System, Search Engine Optimization, Problem Resolution, Relationship Management, Regulation & Policy Compliance, Health & Safety, Excellent Written & Verbal Communication Skills, Teamwork & Collaboration, Problem-solving Skill, Critical Thinking Skill, Multitasking."
                         }
                     ]
                 },
@@ -429,24 +413,9 @@
                     "items": [
                         {
                             "id": 1,
-                            "title": "Diploma in Web Development",
-                            "subtitle": "BSE In CSE (2004 - 2008)",
-                            "rating": "4.70/5",
-                            "description": "Contrary to popular belief. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
-                        },
-                        {
-                            "id": 2,
-                            "title": "The Personal Portfolio Mystery",
-                            "subtitle": "Job at Rainbow-Themes (2008 - 2016)",
-                            "rating": "4.95/5",
-                            "description": "Generate Lorem Ipsum which looks. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
-                        },
-                        {
-                            "id": 3,
-                            "title": "Diploma in Computer Science",
-                            "subtitle": "Works at Plugin Development (2016 - 2020)",
-                            "rating": "5.00/5",
-                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                            "title": "Technical Skills",
+                            "subtitle": "2020 to Present",
+                            "description": "HTML, CSS, JavaScript (ES6), React.js, Firebase BackEnd, MySQL/Sequelize, MongoDB/Mongoose, Node.js/Express.js, C#, REST APIs, Godaddy & Gatsby,  Visual Studio Code, Webstorm, Visual Studio, Microsoft Office Suite (Word, Excel, PowerPoint)"
                         }
                     ]
                 }

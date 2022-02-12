@@ -23,13 +23,6 @@
             "path": "resume"
         },
         {
-            "id": 5,
-            "text": "Skills",
-            "path": "clients"
-        },
-
-        
-        {
             "id": 8,
             "text": "Contact",
             "path": "contacts"

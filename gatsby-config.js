@@ -14,21 +14,16 @@ module.exports = {
             {
                 id: 1,
                 title: "facebook",
-                path: "https://facebook.com",
+                path: "https://www.facebook.com/cameron.mcrae.75",
                 icon: "Facebook",
             },
             {
                 id: 2,
                 title: "instagram",
-                path: "https://instagram.com",
+                path: "https://www.instagram.com/cambojambo89/",
                 icon: "Instagram",
             },
-            {
-                id: 3,
-                title: "linkedin",
-                path: "https://linkedin.com",
-                icon: "Linkedin",
-            },
+            
         ],
         contact: {
             phone: "01234567890",
