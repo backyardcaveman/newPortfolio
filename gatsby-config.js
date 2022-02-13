@@ -1,7 +1,7 @@
 module.exports = {
     siteMetadata: {
         siteUrl: "https://www.yourdomain.tld",
-        title: "Inbio - Personal Portfolio React Template",
+        title: "Cameron McRae Personal Portfolio",
         description: "Awesome Gatsby template",
         author: "Rainbow IT",
         siteLanguage: "en",
