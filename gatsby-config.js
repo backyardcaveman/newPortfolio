@@ -87,7 +87,7 @@ module.exports = {
                 display: "standalone",
                 scope: "/",
                 start_url: "/",
-                icon: "src/assets/images/favicon.png",
+                
             },
         },
     ],
