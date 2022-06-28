@@ -173,8 +173,47 @@
                     ],
                     "path": "#!",
                     "likeCount": 360
+                },
+                {
+                    "id": 5,
+                    "title": "Pokedex",
+                    "category": "Application",
+                    "texts": [
+                        {
+                            "content": "Pokedex API."
+                        },
+                        {
+                            "content": "Pokemon pokedex made with React using the Axios Library."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/Screenshot (10).png"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 750
+                },
+                {
+                    "id": 6,
+                    "title": "Ecommerce Shoe Store",
+                    "category": "Website",
+                    "texts": [
+                        {
+                            "content": "Ecommerce Website."
+                        },
+                        {
+                            "content": "Made with React using Redux and React-Router."
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/Screenshot (9).png"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 1000
                 }
-                
                 
             ]
         },
